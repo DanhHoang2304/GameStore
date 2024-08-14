@@ -52,6 +52,11 @@ else
 }
 
 @code {
+
+    [Parameter]
+    public int? Id {get; set;}
+
+
     [SupplyParameterFromForm]
     private GameDetails game {get; set;} = new()
     {
@@ -61,6 +66,22 @@ else
 
 
     private Genre[]? genres;
+
+    protected override void OnParameterSet()
+    {
+      if (Id is not null)
+      {
+        game = GamesClient.GetGame(Id.Value);
+      }
+      else
+      {
+        game = new()
+        {
+          Name = string.Empty,
+          ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow) 
+        };
+      }
+    }
 
     protected override void OnInitialized()
     {
