@@ -8,7 +8,7 @@
 
 <PageTitle>New Game Adding</PageTitle>
 <h3 class="mt-4">New Game</h3>
-@if (genres is null)
+@if (genres is null || game is null)
 {
   <p><em>Loading...</em></p>
 }
@@ -16,7 +16,7 @@ else
 {
   <div class="row" >
     <div class="col-md-6"> 
-      <EditForm Model="@game" FormName="editGame" OnValidSubmit="HandleSubmit">
+      <EditForm Model="@game" FormName="editgame" OnValidSubmit="HandleSubmit">
         <DataAnnotationsValidator />
         <ValidationSummary />
         <div class="mb-3">
@@ -58,17 +58,18 @@ else
 
 
     [SupplyParameterFromForm]
-    private GameDetails game {get; set;} = new()
-    {
-      Name = string.Empty,
-      ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow) 
-    };
-
+    private GameDetails? game {get; set;}
 
     private Genre[]? genres;
 
-    protected override void OnParameterSet()
+    protected override void OnParametersSet()
     {
+      
+      if (game is not null)
+      {
+        return;
+      }
+
       if (Id is not null)
       {
         game = GamesClient.GetGame(Id.Value);
@@ -90,6 +91,7 @@ else
 
     private void HandleSubmit()
     {
+      ArgumentNullException.ThrowIfNull(game);// throw if game is null
       GamesClient.AddGame(game);
       NavigationManager.NavigateTo("/");
     } 

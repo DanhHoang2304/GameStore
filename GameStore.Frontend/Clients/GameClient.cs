@@ -10,7 +10,7 @@ public class GameClient
     new(){
       Id = 1,
       Name = "FIFA 24",
-      Genre = "Sporting",
+      Genre = "Sport",
       Price = 10.10M,
       ReleaseDate = new DateOnly(2024, 1, 1)
       },
@@ -56,6 +56,7 @@ public class GameClient
   {
       GameSummary? game = games.Find(game => game.Id == id);
       ArgumentNullException.ThrowIfNull(game);
+      // Console.WriteLine($"Looking for genre: {game.Genre}");
       var genre = genres.Single(genre => string.Equals(
         genre.Name, 
         game.Genre, 

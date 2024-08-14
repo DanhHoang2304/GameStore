@@ -24,7 +24,7 @@ public class GenresClient
     },
     new(){
       Id = 5,
-      Name = "Roling"
+      Name = "Shooting"
     },
   ];
 
