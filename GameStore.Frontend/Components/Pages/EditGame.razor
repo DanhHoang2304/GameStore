@@ -6,8 +6,8 @@
 @inject GenresClient GenresClient
 
 
-<PageTitle>New Game Adding</PageTitle>
-<h3 class="mt-4">New Game</h3>
+<PageTitle>@title</PageTitle>
+<h3 class="mt-4">@title</h3>
 @if (genres is null || game is null)
 {
   <p><em>Loading...</em></p>
@@ -61,6 +61,7 @@ else
     private GameDetails? game {get; set;}
 
     private Genre[]? genres;
+    private string title = string.Empty;
 
     protected override void OnParametersSet()
     {
@@ -73,6 +74,7 @@ else
       if (Id is not null)
       {
         game = GamesClient.GetGame(Id.Value);
+        title = $"Edit {game.Name}";
       }
       else
       {
@@ -81,6 +83,8 @@ else
           Name = string.Empty,
           ReleaseDate = DateOnly.FromDateTime(DateTime.UtcNow) 
         };
+
+        title = "New Game";
       }
     }
 
@@ -92,7 +96,16 @@ else
     private void HandleSubmit()
     {
       ArgumentNullException.ThrowIfNull(game);// throw if game is null
-      GamesClient.AddGame(game);
+
+      if (Id is null)
+      {
+        GamesClient.AddGame(game);
+      }
+      else
+      {
+        game.Id = Id.Value;
+        GamesClient.UpdateGame(game);
+      }
       NavigationManager.NavigateTo("/");
     } 
 }
