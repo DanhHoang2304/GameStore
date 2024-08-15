@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameStoreApi", "GameStoreApi.csproj", "{D8EB51EF-73A4-4BFD-9696-85C4B624DF5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameStoreApi", "GameStoreApi.csproj", "{B337EEA2-B25F-46E5-A817-C5EDF6917628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D8EB51EF-73A4-4BFD-9696-85C4B624DF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8EB51EF-73A4-4BFD-9696-85C4B624DF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8EB51EF-73A4-4BFD-9696-85C4B624DF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8EB51EF-73A4-4BFD-9696-85C4B624DF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B337EEA2-B25F-46E5-A817-C5EDF6917628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B337EEA2-B25F-46E5-A817-C5EDF6917628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B337EEA2-B25F-46E5-A817-C5EDF6917628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B337EEA2-B25F-46E5-A817-C5EDF6917628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

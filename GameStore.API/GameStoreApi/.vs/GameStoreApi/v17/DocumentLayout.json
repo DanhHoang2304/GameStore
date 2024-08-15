@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\endpoints\\gameendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\endpoints\\gameendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\gamestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\gamestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|d:\\working\\project\\gamestore\\gamestore.api\\gamestoreapi\\gamestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABFF2FB2-5B03-486D-8435-9C39B4B08BD8}|GameStoreApi\\GameStoreApi.csproj|solutionrelative:gamestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,38 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameStoreApi",
-              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\GameStoreApi.csproj",
-              "RelativeDocumentMoniker": "GameStoreApi\\GameStoreApi.csproj",
-              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\GameStoreApi.csproj",
-              "RelativeToolTip": "GameStoreApi\\GameStoreApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-14T09:42:04.967Z",
+              "Title": "UpdateGameDto.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\UpdateGameDto.cs",
+              "RelativeDocumentMoniker": "GameStoreApi\\Dtos\\UpdateGameDto.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\UpdateGameDto.cs",
+              "RelativeToolTip": "GameStoreApi\\Dtos\\UpdateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:03:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\GameDto.cs",
+              "RelativeDocumentMoniker": "GameStoreApi\\Dtos\\GameDto.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\GameDto.cs",
+              "RelativeToolTip": "GameStoreApi\\Dtos\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:56:57.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\appsettings.json",
-              "RelativeDocumentMoniker": "GameStoreApi\\appsettings.json",
-              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\appsettings.json",
-              "RelativeToolTip": "GameStoreApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-14T09:39:00.632Z",
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "GameStoreApi\\Dtos\\CreateGameDto.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Dtos\\CreateGameDto.cs",
+              "RelativeToolTip": "GameStoreApi\\Dtos\\CreateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:56:51.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameEndpoints.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Endpoints\\GameEndpoints.cs",
+              "RelativeDocumentMoniker": "GameStoreApi\\Endpoints\\GameEndpoints.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Endpoints\\GameEndpoints.cs",
+              "RelativeToolTip": "GameStoreApi\\Endpoints\\GameEndpoints.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:43:17.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Program.cs",
               "RelativeDocumentMoniker": "GameStoreApi\\Program.cs",
               "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.API\\GameStoreApi\\GameStoreApi\\Program.cs",
               "RelativeToolTip": "GameStoreApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T09:25:00.668Z",
               "EditorCaption": ""
