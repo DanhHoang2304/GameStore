@@ -46,8 +46,7 @@
               "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\EditGame.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T09:46:23.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:46:23.601Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
               "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
               "RelativeToolTip": "GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-15T09:46:22.503Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "GameStore.Frontend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T09:46:18.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:46:18.332Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "GameStore.Frontend\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T09:46:16.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:46:16.968Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "GameStore.Frontend\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:41:06.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T09:41:06.09Z"
             }
           ]
         }

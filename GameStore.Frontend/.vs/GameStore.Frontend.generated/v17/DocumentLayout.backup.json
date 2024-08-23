@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\deletegame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\clients\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:clients\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\models\\gamedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:models\\gamedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|d:\\working\\project\\gamestore\\gamestore.frontend\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92F77B4A-B416-4FC3-AF22-68E8273FD05E}|GameStore.Frontend.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAADjAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T04:40:32.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EditGame.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\EditGame.razor",
+              "RelativeToolTip": "Components\\Pages\\EditGame.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:26:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:26:12.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T01:38:09.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T02:14:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T02:14:38.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameDetail.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Models\\GameDetail.cs",
+              "RelativeDocumentMoniker": "Models\\GameDetail.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Models\\GameDetail.cs",
+              "RelativeToolTip": "Models\\GameDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:14:36.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T04:40:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteGame.razor",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DeleteGame.razor",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Components\\Pages\\DeleteGame.razor",
+              "RelativeToolTip": "Components\\Pages\\DeleteGame.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T04:40:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Clients\\GameClient.cs",
+              "RelativeDocumentMoniker": "Clients\\GameClient.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Clients\\GameClient.cs",
+              "RelativeToolTip": "Clients\\GameClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:15:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T03:09:32.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T03:09:12.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T03:09:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Working\\Project\\GameStore\\GameStore.Frontend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:09:03.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
